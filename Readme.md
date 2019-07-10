@@ -2,11 +2,11 @@
 
 Simple spy function for unit testing
 
-## Installation
+## Install
 `npm install mgspy`
 
 ## Usage
-```
+```javascript
 const makeSpy = require('mgspy');
 
 // Tested function
