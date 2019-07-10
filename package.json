@@ -1,0 +1,29 @@
+{
+  "name": "mgspy",
+  "version": "1.0.0",
+  "description": "Simple spy function for unit testing",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "eslint src/**/*.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MGDIS/mgspy.git"
+  },
+  "keywords": [
+    "spy"
+  ],
+  "author": "G. Daudin",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/MGDIS/mgspy/issues"
+  },
+  "homepage": "https://github.com/MGDIS/mgspy#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2"
+  }
+}
