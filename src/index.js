@@ -9,3 +9,5 @@ function makeSpy(toBeReturned) {
     return toBeReturned;
   };
 }
+
+module.exports = makeSpy;
